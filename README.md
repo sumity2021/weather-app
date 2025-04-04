@@ -38,7 +38,7 @@ A simple weather application built using HTML, CSS, and JavaScript that fetches 
 
 ## 📁 Project Structure
 
-
+```````
 weather-app/
 │
 ├── images/
@@ -52,7 +52,7 @@ weather-app/
 ├── style.css
 ├── script.js
 └── README.md
-
+```````
 
 ## 📌 Notes
 
